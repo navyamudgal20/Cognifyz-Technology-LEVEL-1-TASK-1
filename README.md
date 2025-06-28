@@ -1,9 +1,6 @@
 
 # Cognifyz Technologies - Level 1 Task 1
 
-## 📌 Task Title:
-**Exploratory Data Analysis on Restaurant Dataset**
-
 ## 🧠 Objective:
 The objective of this task is to perform basic exploratory data analysis (EDA) on a given dataset to understand the data distribution, identify trends, and derive key insights using data visualization and summary statistics.
 
